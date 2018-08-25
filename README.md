@@ -1,3 +1,3 @@
 # Websites with GutHub - Learning
 
-Github allows you to make running your web sites.
+Github allows you to make run your web sites.
